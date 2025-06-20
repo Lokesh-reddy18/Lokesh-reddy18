@@ -14,6 +14,7 @@
   <a href="https://www.codechef.com/users/loki_1805"><img src="https://img.shields.io/badge/-Loki_1805-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
   <a href="https://auth.geeksforgeeks.org/user/lokesh_reddy18"><img src="https://img.shields.io/badge/-lokesh_reddy18-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="mailto:kollilokeshreddy18@gmail.com"><img src="https://img.shields.io/badge/-kollilokeshreddy18-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://lokesh-reddy18.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2e2f82?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 
