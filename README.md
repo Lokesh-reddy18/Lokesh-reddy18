@@ -3,12 +3,7 @@
 *I’m a final year CSE student at National Institute of Technology, Silchar, passionate about **Coding**, **Problem Solving**, **Data Structures & Algorithms**, and **Web Development**.
 I love to learn, build, and contribute in any way I can. My interests span from competitive programming to full stack web projects.*
 
-<p align="center">
-  <a href="https://leetcode.com/u/Lokesh-reddy18/"><img src="https://cp-logo.vercel.app/leetcode/Lokesh-reddy18?logo=true" height="25" alt="LeetCode" /></a>&nbsp;
-  <a href="https://codeforces.com/profile/Lokeshreddy18"><img src="https://cp-logo.vercel.app/codeforces/Lokeshreddy18?logo=true" height="25" alt="Codeforces" /></a>&nbsp;
-  <a href="https://www.codechef.com/users/loki_1805"><img src="https://cp-logo.vercel.app/codechef/loki_1805?logo=true" height="25" alt="CodeChef" /></a>&nbsp;
-  <a href="https://atcoder.jp/users/LokeshReddy"><img src="https://cp-logo.vercel.app/atcoder/LokeshReddy?logo=true" height="25" alt="AtCoder" /></a>
-</p>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28" style="vertical-align:middle;"/> Technologies
 
