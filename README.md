@@ -7,7 +7,6 @@ A CSE graduate of National Institute of Technology, Silchar, I'm passionate abou
 
 - 💼 Working as a **Software Engineer - Android** at **Apps For Bharat**
 - 📱 Building production Android apps with **Kotlin** and **Android Studio**
-- 🛠️ Side project: **SplitEasy**, an Android expense-splitting app built with Kotlin and Firebase
 - 🌱 Currently deepening my knowledge of app architecture, performance, and testing
 - 🧩 Still enjoy competitive programming and web development on the side
 
