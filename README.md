@@ -1,14 +1,20 @@
 ## <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="32"/> Hi there, <a href="https://lokesh-reddy18.netlify.app">Lokesh Reddy</a> here! <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/PC.gif" width="32"/>
 
-*I’m a final year CSE student at National Institute of Technology, Silchar, passionate about **Coding**, **Problem Solving**, **Data Structures & Algorithms**, and **Web Development**.
-I love to learn, build, and contribute in any way I can. My interests span from competitive programming to full stack web projects.*
+*I'm a **Software Engineer - Android** at **[Apps For Bharat](https://appsforbharat.com)**, building mobile apps with **Kotlin** at scale for users across India.
+A CSE graduate of National Institute of Technology, Silchar, I'm passionate about **clean app architecture**, **Problem Solving**, and **Data Structures & Algorithms**. I love to learn, build, and contribute in any way I can.*
 
+## 🚀 What I'm up to
 
+- 💼 Working as a **Software Engineer - Android** at **Apps For Bharat**
+- 📱 Building production Android apps with **Kotlin** and **Android Studio**
+- 🛠️ Side project: **SplitEasy**, an Android expense-splitting app built with Kotlin and Firebase
+- 🌱 Currently deepening my knowledge of app architecture, performance, and testing
+- 🧩 Still enjoy competitive programming and web development on the side
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28" style="vertical-align:middle;"/> Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,react,nodejs,express,tailwind,bootstrap,git,github,mongodb,mysql&theme=dark" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,firebase,git,github,postman,cpp,c,react,ts,js,nodejs,mysql,mongodb&theme=dark" height="40" alt="Tech Stack" />
 </p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28" style="vertical-align:middle;"/> Connect with me
